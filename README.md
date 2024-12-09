@@ -1,0 +1,2 @@
+# pythonidslab
+heş zad
